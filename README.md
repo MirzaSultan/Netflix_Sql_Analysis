@@ -1,5 +1,7 @@
 # 📺 Netflix Content Analysis
 
+![netflix logo](https://github.com/MirzaSultan/Netflix_Sql_Analysis/blob/main/n1.png)
+
 ## 🎯 Project Overview
 
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. This analysis demonstrates advanced SQL techniques including data manipulation, aggregation, window functions, and complex query optimization to solve real-world streaming platform challenges.
